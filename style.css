@@ -51,7 +51,7 @@ body {
 }
 
   .news-description {
-font-size: 16px;
+font-size: 14px;
     line-height: 1.4;
     font-family: "Roboto";
 }
@@ -59,7 +59,7 @@ font-size: 16px;
 .news-date {
     margin: 0vw 0 .7vw 0;
     color: black;
-      font-size: 16px;
+      font-size: 14px;
   font-family: "Roboto";
 }
 
@@ -68,6 +68,9 @@ a {
     color: #000;
 }
 
+.read-more {
+  font-size: 14px;
+}
 
 .header-style-one {
       margin: 1vw 0 1vw 0;
@@ -80,7 +83,7 @@ width: 100%;
 
 .news-more {
     float: left;
-      font-size: 26px;
+      font-size: 14px;
     font-family: "Roboto";
     margin: 1vw 0 0 0;
     cursor: pointer;
